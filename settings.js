@@ -16,8 +16,8 @@ if (fs.existsSync('.env')) require('dotenv').config({ path: __dirname+'/.env' })
 
 //--------------------[ SESSION ID ]----------------------//
 
-global.SESSION_ID = process.env.SESSION_ID || '' 
-//Enter your Jinwoo session id here; must start with MALVIN-XD~
+global.SESSION_ID = process.env.SESSION_ID || "MALVIN-XD~Z550gKxS#lw1FXJyMkadDD47eS1Ml7V6B_-2AOG0su3wWyCqwuF0"
+
 
 //--------------------[ BOT NAME ]----------------------//
 
@@ -25,11 +25,11 @@ global.botname = process.env.BOT_NAME || 'ᴊɪɴᴡᴏᴏ-ʙᴏᴛ'
 
 //-----------------[ OWNER NUMBER ]------------------//
 
-global.ownernumber = process.env.OWNER_NUMBER || '263714757857' 
+global.ownernumber =22377111691 process.env.OWNER_NUMBER || '22377111691' 
 
 //-----------------[ OWNER NAME ]------------------//
 
-global.ownername = process.env.OWNER_NAME || 'Malvin King' 
+global.ownername = ♤♧CHOCO♧♤ process.env.OWNER_NAME || 'Malvin King' 
 
 //------------[ STICKER PACKNAME ]-----------------//
 
@@ -37,7 +37,7 @@ global.packname = process.env.STICKER_PACK_NAME || "JINWOO"
 
 //--------------[ STICKER AUTHOR NAME ]------------//
 
-global.author = process.env.STICKER_AUTHOR_NAME || "SUNG" 
+global.author =CHOCO process.env.STICKER_AUTHOR_NAME || "SUNG" 
 
 //----------------------[ TIMEZONE ]--------------------//
 
